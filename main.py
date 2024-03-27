@@ -9,7 +9,7 @@ email_receiver = 'charantejaagni@gmail.com'
 
 subject = "Dont forget to subscribe"
 body = """
-When you watch a video, please hit subscribe
+FOLLOW ME ON and linkedin.com/in/agni6 and  https://github.com/Agni06 
 """
 
 em = EmailMessage()
